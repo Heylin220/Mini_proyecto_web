@@ -78,6 +78,10 @@
         ;
         
     }
+
+    #main-title{
+        font-size: 50px;
+    }
 }
 
 @media (min-width: 410px) and (max-width: 1279px) and (orientation: landscape){
@@ -91,6 +95,10 @@
         ;
         
     }
+
+    #main-title{
+        font-size: 50px;
+    }
 }
 
 @media (min-width: 1280px){
@@ -103,5 +111,9 @@
             "footer footer"
         ;
         
+    }
+
+    #main-title{
+        font-size: 50px;
     }
 }
