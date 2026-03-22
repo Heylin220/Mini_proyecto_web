@@ -28,7 +28,7 @@
     grid-area: header;
     width: 100%;
     justify-content: space-between;
-    background-color: yellow;
+    background-color: rgb(241, 226, 14)
 }
 
 .nav-start{
